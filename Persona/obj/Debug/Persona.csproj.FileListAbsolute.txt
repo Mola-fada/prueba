@@ -1,0 +1,8 @@
+C:\Users\APRENDIZ\source\repos\Persona\Persona\bin\Debug\Persona.exe.config
+C:\Users\APRENDIZ\source\repos\Persona\Persona\bin\Debug\Persona.exe
+C:\Users\APRENDIZ\source\repos\Persona\Persona\bin\Debug\Persona.pdb
+C:\Users\APRENDIZ\source\repos\Persona\Persona\obj\Debug\Persona.csproj.AssemblyReference.cache
+C:\Users\APRENDIZ\source\repos\Persona\Persona\obj\Debug\Persona.csproj.SuggestedBindingRedirects.cache
+C:\Users\APRENDIZ\source\repos\Persona\Persona\obj\Debug\Persona.csproj.CoreCompileInputs.cache
+C:\Users\APRENDIZ\source\repos\Persona\Persona\obj\Debug\Persona.exe
+C:\Users\APRENDIZ\source\repos\Persona\Persona\obj\Debug\Persona.pdb
